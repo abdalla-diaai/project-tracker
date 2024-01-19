@@ -1,0 +1,41 @@
+#modal-btn {
+    margin-block-start: 10px;
+    width: 100%;
+}
+
+th,
+td {
+    padding: 5px;
+}
+
+#new-row {
+    font-size: 14px;
+}
+
+.delete-project-btn {
+    border: none;
+}
+
+.delete-project-btn:hover {
+    color:red;
+    font-size: 20px;
+}
+
+#add-project {
+    background-color: beige;
+    padding: 20px;
+}
+
+.px-4 {
+    background-color: thistle;
+
+}
+
+.row {
+    padding: 10px;
+}
+
+.close {
+    border: none;
+    background-color: white;
+}
